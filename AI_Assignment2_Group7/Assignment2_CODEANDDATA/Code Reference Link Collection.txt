@@ -1,0 +1,5 @@
+CNN Code reference
+https://ailog.site/2019/08/01/keras1/
+
+Machine Learning
+https://codelabs.developers.google.com/codelabs/tensorflow-lab1-helloworld/#2
